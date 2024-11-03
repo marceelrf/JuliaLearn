@@ -1,5 +1,5 @@
 # Julia Learn
 
-Aprendizado baseado em [def]
+Aprendizado baseado em [exercism][def]
 
 [def]:https://exercism.org/tracks/julia
